@@ -8,12 +8,7 @@
 * ✉️  You can contact me at [jackgawe2@duck.com](mailto:jackgawe2@duck.com)
 * 🧠  I'm learning Rust and C#
 
-<a href="https://www.x.com/eyadmkv" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/eyadmkv?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-<a href="https://www.twitch.tv/BobRoss" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitch/status/BobRoss?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" />
-</a>
+
 
 ### Skills
 

@@ -5,7 +5,7 @@ I’m a 15-year-old student passionate about Computer Science and web developmen
 ## 📫 Connect with me!
 - Twitter: [@eyadmkv](https://twitter.com/eyadmkv)
 - Portfolio: [eyadmkv.pages.dev](https://eyadmkv.pages.dev)
-- Letterboxd: [eyad g]([https://letterboxd.com/eyadmkv](https://letterboxd.com/jackgawe/))
+- Letterboxd: [eyad g]([https://letterboxd.com/eyadmkv](https://letterboxd.com/jackgawe/)
 
 ---
 
